@@ -44,7 +44,7 @@ A modern, responsive enterprise website built using **Next.js** and **Tailwind C
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/enterprise-website.git
-cd enterprise-website
+git clone repo-url
+cd IK-website
 npm install
 npm run dev
